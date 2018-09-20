@@ -1,0 +1,13 @@
+GoodsTitle：商品名称
+service:服务
+Specifications:规格（多条数据）
+Price：价格
+Monthly sale：月销
+Discount：优惠（多条数据）
+activity：活动
+Productmap：产品图
+Transport：运送
+goodsNumber：个数
+
+
+http://192.168.0.102:8080/static/goods.json
